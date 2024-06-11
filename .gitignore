@@ -1,0 +1,42 @@
+# Dependency directories
+node_modules/
+
+#local history
+.history/
+
+# Env files
+.env
+
+# OS generated files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Coverage directory used by tools like Istanbul
+coverage/
+
+# Compiled files
+dist/
+build/
+
+# Cache
+.cache/
+
+# Editor directories and files
+*.swp
+*.swo
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# npm debug log
+npm-debug.log*
